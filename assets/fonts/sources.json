@@ -1,0 +1,37 @@
+[
+  {
+    "family": "Hanken+Grotesk:wght@100..900",
+    "local": "assets/fonts/hanken.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/hankengrotesk/HankenGrotesk%5Bwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/hankengrotesk/OFL.txt",
+    "bytes": 132892
+  },
+  {
+    "family": "JetBrains+Mono:wght@100..800",
+    "local": "assets/fonts/mono.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/jetbrainsmono/JetBrainsMono%5Bwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/jetbrainsmono/OFL.txt",
+    "bytes": 187208
+  },
+  {
+    "family": "Archivo:wdth,wght@62..125,100..900",
+    "local": "assets/fonts/archivo.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/archivo/Archivo%5Bwdth%2Cwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/archivo/OFL.txt",
+    "bytes": 658596
+  },
+  {
+    "family": "Inter:wght@100..900",
+    "local": "assets/fonts/inter.ttf",
+    "source": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/Inter%5Bopsz%2Cwght%5D.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/inter/OFL.txt",
+    "bytes": 876576
+  },
+  {
+    "family": "Libre+Caslon+Display",
+    "local": "assets/fonts/serif.ttf",
+    "source": "https://fonts.gstatic.com/s/librecaslondisplay/v18/TuGOUUFxWphYQ6YI6q9Xp61FQzxDRKmzr2lR.ttf",
+    "license": "https://raw.githubusercontent.com/google/fonts/main/ofl/librecaslondisplay/OFL.txt",
+    "bytes": 91588
+  }
+]
